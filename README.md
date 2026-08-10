@@ -11,4 +11,4 @@
 - [parallel-rsync](https://github.com/overflowy/parallel-rsync) - Parallel rsync launcher with fancy progress bars
 - [todotxt](https://github.com/overflowy/todotxt) - Sublime Text plugin for managing todo.txt files
 - [null-pointer-uploader](https://github.com/overflowy/null-pointer-uploader) - Go client for [0x0.st](https://0x0.st)
-- [checksums](https://github.com/overflowy/checksums) - Super fast utility to generate and verify checksums
+- [checksums](https://github.com/overflowy/checksums) - Super fast utility for generating and verifying checksums
