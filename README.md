@@ -7,7 +7,7 @@
 - [herdr-adversarial-review](https://github.com/overflowy/herdr-adversarial-review) - Claude Code skill for adversarial code review
 - [safe-result](https://github.com/overflowy/safe-result) - Elegant error handling for Python, inspired by Rust's Result type
 - [goldfish](https://github.com/overflowy/goldfish) - A dead-simple macOS Pomodoro timer that stays in your sight
-- [bash-script-tools](https://github.com/overflowy/bash-script-tools) - Web-based bash script formatter and linter` with AI-powered autofix
+- [bash-script-tools](https://github.com/overflowy/bash-script-tools) - Web-based bash script formatter and linter with AI-powered autofix
 - [imap2gmail](https://github.com/overflowy/imap2gmail) - Self-contained mass-migrations orchestrator for Gmail
 - [parallel-rsync](https://github.com/overflowy/parallel-rsync) - Parallel rsync launcher with fancy progress bars
 - [todotxt](https://github.com/overflowy/todotxt) - Sublime Text plugin for managing todo.txt files
