@@ -13,3 +13,4 @@
 - [todotxt](https://github.com/overflowy/todotxt) - Sublime Text plugin for managing todo.txt files
 - [null-pointer-uploader](https://github.com/overflowy/null-pointer-uploader) - Go client for [0x0.st](https://0x0.st)
 - [checksums](https://github.com/overflowy/checksums) - Super fast utility for generating and verifying checksums
+- [machine-report](https://github.com/overflowy/machine-report) - A compact one-screen summary of the machine you just logged into
