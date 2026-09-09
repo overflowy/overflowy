@@ -1,7 +1,7 @@
 ### Stuff I'm building
 
 - [zhist](https://github.com/overflowy/zhist) - Smarter shell history for zsh
-- [html-tools](https://github.com/overflowy/html-tools) - Collection of HTML tools
+- [html-tools](https://github.com/overflowy/html-tools) - Collection of tools that run in the browser
 - [make-look-scanned](https://github.com/overflowy/make-look-scanned) - Makes PDFs look scanned (CLI or in the browser via WASM)
 - [hn-comment-saver](https://github.com/overflowy/hn-comment-saver) - Save, tag, annotate, and search Hacker News comments (Firefox extension)
 - [logseq-pretty-links](https://github.com/overflowy/logseq-pretty-links) - Make links prettier in Logseq
