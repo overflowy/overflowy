@@ -1,4 +1,4 @@
-### Stuff I'm building
+### Stuff I'm working on
 
 - [zhist](https://github.com/overflowy/zhist) - Smarter shell history for zsh
 - [html-tools](https://github.com/overflowy/html-tools) - Collection of tools that run in the browser
