@@ -12,7 +12,6 @@
 - [imap2gmail](https://github.com/overflowy/imap2gmail) - Self-contained mass-migrations orchestrator for Gmail
 - [parallel-rsync](https://github.com/overflowy/parallel-rsync) - Parallel rsync launcher with fancy progress bars
 - [todotxt](https://github.com/overflowy/todotxt) - Sublime Text plugin for managing todo.txt files
-- [null-pointer-uploader](https://github.com/overflowy/null-pointer-uploader) - Go client for [0x0.st](https://0x0.st)
 - [checksums](https://github.com/overflowy/checksums) - Super fast utility for generating and verifying checksums
 - [machine-report](https://github.com/overflowy/machine-report) - A compact one-screen summary of the machine you just logged into
 - [herdr-adversarial-review](https://github.com/overflowy/herdr-adversarial-review) - Claude Code skill for adversarial code review
