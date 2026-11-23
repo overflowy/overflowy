@@ -7,7 +7,6 @@
 - [hn-comment-saver](https://github.com/overflowy/hn-comment-saver) - Save, tag, annotate, and search Hacker News comments (Firefox extension)
 - [logseq-pretty-links](https://github.com/overflowy/logseq-pretty-links) - Make links prettier in Logseq
 - [safe-result](https://github.com/overflowy/safe-result) - Elegant error handling for Python, inspired by Rust's Result type
-- [goldfish](https://github.com/overflowy/goldfish) - A dead-simple macOS Pomodoro timer that stays in your sight
 - [bash-script-tools](https://github.com/overflowy/bash-script-tools) - Web-based bash script formatter and linter with AI-powered autofix
 - [imap2gmail](https://github.com/overflowy/imap2gmail) - Self-contained mass-migrations orchestrator for Gmail
 - [parallel-rsync](https://github.com/overflowy/parallel-rsync) - Parallel rsync launcher with fancy progress bars
